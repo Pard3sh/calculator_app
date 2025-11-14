@@ -1,3 +1,3 @@
-from ui.main_view import CalculatorWindow
+from ui.ui import CalculatorWindow
 
 __all__ = ['CalculatorWindow']
