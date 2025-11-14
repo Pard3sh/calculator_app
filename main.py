@@ -1,8 +1,7 @@
 from ui import CalculatorWindow
 
 def main():
-    root = CalculatorWindow()
-    root.mainloop()
+    CalculatorWindow().mainloop()
 
 if __name__ == "__main__":
     main()
