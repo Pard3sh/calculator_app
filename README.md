@@ -1,5 +1,7 @@
 # Calculator App
 
+## Description
+
 ## How to Run (Python3)
 ```bash
 # clone the repository
