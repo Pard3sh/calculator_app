@@ -23,4 +23,4 @@ python3 main.py
 
 ### Entry: 11/13/2025
 I am still learning tkinter and figuring out how to use it in an object oriented fashion. 
-The application is currently a window that contains numerical buttons. More coming soon. 
+The application is currently a window that contains numerical buttons and operator buttons, alongside an enter button. More coming soon. 
